@@ -1,0 +1,1 @@
+Web application for artists, you can register, upload/delete photos for your account, add reviews or just check out the work other artists have uploaded without registering

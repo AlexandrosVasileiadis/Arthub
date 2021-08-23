@@ -1,0 +1,18 @@
+body {
+    background: linear-gradient(to right, #8e0e00, #1f1c18);
+    color: white;
+    font-family: 'Playfair Display SC', serif;
+}
+
+#navButton {
+    border: none;
+    box-shadow: none;
+}
+
+.nav-link {
+    border-bottom: 0.25rem solid transparent;
+}
+
+.nav-link:hover {
+    border-bottom-color: white;
+}
